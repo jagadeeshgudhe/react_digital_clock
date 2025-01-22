@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div className="app-container">
       <Header />
-      <div className="time-display">{time}</div>
+      <div className="tme-display">{time}</div>
     </div>
   );
 };
